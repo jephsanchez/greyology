@@ -1,2 +1,2 @@
-# grisologia
-💀Paleta de grises para grisólogas.
+# grisología.scss
+300 greys for UX aliens 👽
