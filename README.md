@@ -1,2 +1,2 @@
-# grisología.scss
-300 greys for UX aliens 👽
+# Greyology.scss
+Three hundred greys for UX aliens 👽
