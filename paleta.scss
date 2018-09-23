@@ -51,11 +51,13 @@ footer {
     width: 20%;
     padding: 15px 0px;
     color: $grey-50;
+    text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.5);
     cursor: crosshair;
     font-size: 11px;
         span {
             opacity: .65;
             text-transform: uppercase;
+            font-weight: 700;
         }
         &:hover {
             transition: 16ms;
